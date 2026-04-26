@@ -1,3 +1,13 @@
+---
+title: Your Title
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.28.0"
+app_file: app.py
+pinned: false
+---
 # Water Potability Prediction (ML Project)
 
 This project predicts whether water is **safe for drinking (potable)** or not, based on chemical and physical properties of water.
